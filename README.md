@@ -1,4 +1,4 @@
-### Hi there 👋
+###  👋 Hi! I'm a software engineering student with high inclination of coding, and always keen to learn new things.
 
 <!--
 **kimvcp/kimvcp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
