@@ -1,7 +1,7 @@
-### Hi! 👋 
+## Hi! 👋 
 I'm a software engineering student with high inclination of coding, and always keen to learn new things.
 
-#### My Learning on Salesforce 
+#### My Salesforce Learning  
 
 Trailblazer profile : [vthamsuthikul](https://trailblazer.me/id/vthamsuthikul)
 
@@ -9,7 +9,6 @@ Trailblazer profile : [vthamsuthikul](https://trailblazer.me/id/vthamsuthikul)
 
 - Email: kimvcp.t@gmail.com
 - Linkedin: [Vichaphol Thamsuthikul](https://www.linkedin.com/in/vichaphol-thamsuthikul-ba0838184)
-
 
 
 <!--
