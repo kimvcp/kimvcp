@@ -1,4 +1,4 @@
-## Howdy! <img src="wave.gif" width="30px">
+<h2 align="center"> Howdy! <img src="wave.gif" width="30px"></h2>
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=kimvcp&left_color=black&right_color=black)
 
@@ -13,6 +13,10 @@ Trailblazer profile : [vthamsuthikul](https://trailblazer.me/id/vthamsuthikul)
 - Email: kimvcp.t@gmail.com
 - Linkedin: [Vichaphol Thamsuthikul](https://www.linkedin.com/in/vichaphol-thamsuthikul-ba0838184)
 
+---
+
+<h3 align="center">📈 GitHub Stats </h3>
+
 <span>
   <img width="55%" src="https://github-readme-stats.vercel.app/api?username=kimvcp&hide=stars&include_all_commits=true&count_private=true&show_icons=true&theme=great-gatsby" />
 </span>
@@ -20,9 +24,7 @@ Trailblazer profile : [vthamsuthikul](https://trailblazer.me/id/vthamsuthikul)
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimvcp&langs_count=6&layout=compact&theme=great-gatsby" />
 </span>
 
----
-
-#### ⚡ Highlighted Projects
+<h3 align="center">⚡ Highlighted Projects </h3>
 
 <div align="left"> 
   <a href="https://github.com/Cobda/cobda-web">
