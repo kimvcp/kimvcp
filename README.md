@@ -1,10 +1,12 @@
 <h2> 
   Howdy!
   <img src="wave.gif" width="30px">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=kimvcp&left_color=black&right_color=black" alt="visitor badge"/>
 </h2>
 
-I'm a software developer with high inclination of coding, and always keen to learn new things.
+<img src="https://visitor-badge.glitch.me/badge?page_id=kimvcp&left_color=black&right_color=black" alt="visitor badge"/>
+
+
+A software developer with high inclination of coding, and always keen to learn new things.
 
 <h3>⚡ My Salesforce Learning</h3>
 
@@ -18,7 +20,7 @@ Trailblazer profile : [vthamsuthikul](https://trailblazer.me/id/vthamsuthikul)
 <h3>📈 GitHub Stats</h3>
 
 <span>
-  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=kimvcp&hide=stars&include_all_commits=true&count_private=true&show_icons=true&theme=great-gatsby" />
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/?username=kimvcp&hide=stars&include_all_commits=true&count_private=true&show_icons=true&theme=great-gatsby" />
 </span>
 <span>
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimvcp&langs_count=6&layout=compact&theme=great-gatsby" />
