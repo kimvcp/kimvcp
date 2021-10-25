@@ -1,23 +1,21 @@
-<h2> Howdy! <img src="wave.gif" width="30px"></h2>
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=kimvcp&left_color=black&right_color=black)
-
----
+<h2> 
+  Howdy!
+  <img src="wave.gif" width="30px">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=kimvcp&left_color=black&right_color=black" alt="visitor badge"/>
+</h2>
 
 I'm a software developer with high inclination of coding, and always keen to learn new things.
 
-#### My Salesforce Learning
+<h3>✨ My Salesforce Learning</h3>
 
 Trailblazer profile : [vthamsuthikul](https://trailblazer.me/id/vthamsuthikul)
 
-#### How to reach me:
+<h3>📫 How to reach me</h3>
 
 - Email: kimvcp.t@gmail.com
 - Linkedin: [Vichaphol Thamsuthikul](https://www.linkedin.com/in/vichaphol-thamsuthikul-ba0838184)
 
----
-
-<h3 align="center">📈 GitHub Stats </h3>
+<h3>📈 GitHub Stats</h3>
 
 <span>
   <img width="55%" src="https://github-readme-stats.vercel.app/api?username=kimvcp&hide=stars&include_all_commits=true&count_private=true&show_icons=true&theme=great-gatsby" />
@@ -26,9 +24,7 @@ Trailblazer profile : [vthamsuthikul](https://trailblazer.me/id/vthamsuthikul)
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimvcp&langs_count=6&layout=compact&theme=great-gatsby" />
 </span>
 
----
-
-<h3 align="center">⚡ Highlighted Projects </h3>
+<h3>⚡ Highlighted Projects</h3>
 
 <div align="left"> 
   <a href="https://github.com/Cobda/cobda-web">
@@ -45,18 +41,3 @@ Trailblazer profile : [vthamsuthikul](https://trailblazer.me/id/vthamsuthikul)
     <img align="center" width="47.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=kimvcp&repo=dailigram&theme=great-gatsby" />
   </a>
 </div>
-
-<!--
-**kimvcp/kimvcp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me:
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
