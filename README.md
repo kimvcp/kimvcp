@@ -1,11 +1,14 @@
-## Hi! 👋 
+## Howdy! <img src="wave.gif" width="30px">
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=kimvcp&left_color=black&right_color=black)
+
 I'm a software developer with high inclination of coding, and always keen to learn new things.
 
 #### My Salesforce Learning  
 
 Trailblazer profile : [vthamsuthikul](https://trailblazer.me/id/vthamsuthikul)
 
-#### 📫 How to reach me:
+#### How to reach me:
 
 - Email: kimvcp.t@gmail.com
 - Linkedin: [Vichaphol Thamsuthikul](https://www.linkedin.com/in/vichaphol-thamsuthikul-ba0838184)
