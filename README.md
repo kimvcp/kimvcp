@@ -4,7 +4,7 @@
 
 I'm a software developer with high inclination of coding, and always keen to learn new things.
 
-#### My Salesforce Learning  
+#### My Salesforce Learning
 
 Trailblazer profile : [vthamsuthikul](https://trailblazer.me/id/vthamsuthikul)
 
@@ -20,21 +20,25 @@ Trailblazer profile : [vthamsuthikul](https://trailblazer.me/id/vthamsuthikul)
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimvcp&langs_count=6&layout=compact&theme=great-gatsby" />
 </span>
 
-<!-- #### ⚡ Hightlighted Projects
+---
 
-<a href="https://github.com/Cobda/cobda-web">
-  <img width="47.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=Cobda&repo=cobda-web&theme=great-gatsby" />
-</a>
-<a href="https://github.com/kimvcp/dailigram">
-  <img width="47.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=kimvcp&repo=dailigram&theme=great-gatsby" />
-</a>
-<div width="50"></div>
-<a href="https://github.com/kimvcp/knews">
-  <img width="47.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=kimvcp&repo=knews&theme=great-gatsby" />
-</a>
-<a href="https://github.com/kimvcp/restaurant-pos">
-  <img width="47.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=kimvcp&repo=restaurant-pos&theme=great-gatsby" />
-</a> -->
+#### ⚡ Highlighted Projects
+
+<div align="left"> 
+  <a href="https://github.com/Cobda/cobda-web">
+    <img width="47.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=Cobda&repo=cobda-web&theme=great-gatsby" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/kimvcp/knews">
+    <img width="47.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=kimvcp&repo=knews&theme=great-gatsby" />
+  </a>
+</div>
+<div align="right">
+  <a href="https://github.com/kimvcp/dailigram">
+    <img align="center" width="47.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=kimvcp&repo=dailigram&theme=great-gatsby" />
+  </a>
+</div>
 
 <!--
 **kimvcp/kimvcp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
