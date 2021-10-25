@@ -6,7 +6,7 @@
 
 I'm a software developer with high inclination of coding, and always keen to learn new things.
 
-<h3>✨ My Salesforce Learning</h3>
+<h3>⚡ My Salesforce Learning</h3>
 
 Trailblazer profile : [vthamsuthikul](https://trailblazer.me/id/vthamsuthikul)
 
@@ -24,7 +24,7 @@ Trailblazer profile : [vthamsuthikul](https://trailblazer.me/id/vthamsuthikul)
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimvcp&langs_count=6&layout=compact&theme=great-gatsby" />
 </span>
 
-<h3>⚡ Highlighted Projects</h3>
+<h3>✨ Highlighted Projects</h3>
 
 <div align="left"> 
   <a href="https://github.com/Cobda/cobda-web">
