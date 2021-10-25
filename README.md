@@ -10,6 +10,12 @@ Trailblazer profile : [vthamsuthikul](https://trailblazer.me/id/vthamsuthikul)
 - Email: kimvcp.t@gmail.com
 - Linkedin: [Vichaphol Thamsuthikul](https://www.linkedin.com/in/vichaphol-thamsuthikul-ba0838184)
 
+<span>
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=kimvcp&hide=stars&include_all_commits=true&count_private=true&show_icons=true&theme=great-gatsby" />
+</span>
+<span>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimvcp&langs_count=6&layout=compact&theme=great-gatsby" />
+</span>
 
 <!--
 **kimvcp/kimvcp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
