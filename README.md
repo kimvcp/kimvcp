@@ -1,6 +1,8 @@
-<h2 align="center"> Howdy! <img src="wave.gif" width="30px"></h2>
+<h2> Howdy! <img src="wave.gif" width="30px"></h2>
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=kimvcp&left_color=black&right_color=black)
+
+---
 
 I'm a software developer with high inclination of coding, and always keen to learn new things.
 
@@ -23,6 +25,8 @@ Trailblazer profile : [vthamsuthikul](https://trailblazer.me/id/vthamsuthikul)
 <span>
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimvcp&langs_count=6&layout=compact&theme=great-gatsby" />
 </span>
+
+---
 
 <h3 align="center">⚡ Highlighted Projects </h3>
 
