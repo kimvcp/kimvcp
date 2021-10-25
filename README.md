@@ -5,9 +5,6 @@
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=kimvcp&left_color=black&right_color=black" alt="visitor badge"/>
 
-
-A software developer with high inclination of coding, and always keen to learn new things.
-
 <h3>⚡ My Salesforce Learning</h3>
 
 Trailblazer profile : [vthamsuthikul](https://trailblazer.me/id/vthamsuthikul)
